@@ -16,7 +16,7 @@ public class Doctor extends Person{
 	}
 	
 	
-	
+	//fuck
 	//SETTERS AND GETTERS
 	public String setLicense(String license){
 		this.license = license;
