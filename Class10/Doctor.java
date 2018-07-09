@@ -4,6 +4,8 @@ import java.util.Date;
 
 public class Doctor extends Person{
 	
+	//delete
+	//delete1
 	private String license;
 	private String field;
 	
